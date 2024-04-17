@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=66D7D1&height=300&section=header&text=hello,yeonniverse&fontSize=55" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonnybus)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yeonnybus/yeonnybus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
