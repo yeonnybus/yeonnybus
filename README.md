@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=66D7D1&height=300&section=header&text=hello,yeonniverse&fontSize=55" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=66D7D1&height=200&section=header&text=hello,yeonniverse&fontSize=33" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonnybus)](https://github.com/anuraghazra/github-readme-stats)
 
