@@ -10,6 +10,8 @@
 - `🐣 Name` : 정 성 연 (Sungyeon Jung)
 - `📧 Mail` : pro2082@uos.ac.kr / yeonnybus@gmail.com
 - `🔗 Link in Bio` : https://bento.me/yeonniverse
+- Wedeo frontend devloper(24.09~)
+
 
 
 -	Typescript, React.js, React Native를 기반으로 한 프론트엔드 개발에 관심을 가지고 있는 주니어 개발자
